@@ -18,7 +18,7 @@
   "bot-md",
   "multi-device"
  ],
- "author": "Fardan Official",
+ "author": "ORG",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "^4.1.0",
@@ -73,10 +73,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/ZackMans/ZackBotMans.git"
+  "url": "git+https://github.com/AUREL1GANS/Testing-Gabut.git"
  },
  "bugs": {
-  "url": "https://github.com/ZackMans/ZackBotMans/issues"
+  "url": "https://github.com/AUREL1GANS/Testing-Gabut/issues"
  },
- "homepage": "https://github.com/ZackMans/ZackBotMans#readme"
+ "homepage": "https://github.com/AUREL1GANS/Testing-Gabut#readme"
 }
